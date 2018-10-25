@@ -10,7 +10,7 @@ git config --global user.email "gabrielp.roch@hotmail.com"
 git push origem master
 git remote add origem https://github.com/BielPinto/Proj_Test.git
 git push origin master  = jogar o codigo para o github
-
+testando pull
  */
  
  echo "heloo word  ";
