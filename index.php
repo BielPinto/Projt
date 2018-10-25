@@ -4,7 +4,7 @@ git init   = iniciar o git
 git add index.php  = iniciando o arquivo 
 git git add --all  adcionando todas as alterações na margen
 git commit -m "criei meu repositorio " = levantando e comentando a alteração 
-git remute add origem https://github.com/BielPinto/Proj_Test.git 
+git remote add origem https://github.com/BielPinto/Proj_Test.git 
 git config --global user.name "bielpinto"
 git config --global user.email "gabrielp.roch@hotmail.com"
 git push origem master
