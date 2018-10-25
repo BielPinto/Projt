@@ -1,5 +1,6 @@
 <?php
  
- echo "heloo word  ";
  
+ echo "heloo word  ";
+ echo " oi ";
 ?>
